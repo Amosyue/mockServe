@@ -1,5 +1,5 @@
-# mockServe
-# 项目使用nodemon，express,mock搭建，支持热更新
+
+# 项目使用 nodemon，express,mock 搭建，支持热更新，修改配置无需重新执行
 
 # 执行步骤
 ```
