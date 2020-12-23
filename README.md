@@ -7,3 +7,4 @@ npm install
 npm run serve
 
 ```
+已在实际项目中使用，确定可行
