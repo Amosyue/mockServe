@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mockjs": "^1.1.0",
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "mock": "node mock/index.js",
+    "serve": "node serve.js"
+  }
+}
