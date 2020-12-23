@@ -1,6 +1,10 @@
 # mockServe
 
-# 不需要热加载
-执行npm run mock
+# 执行步骤
+```
+npm install
+npm run serve
+
+```
 # 热加载
 执行npm run serve
