@@ -3,7 +3,7 @@ var express = require('express')
 var user = express.Router()
 const Random = Mock.Random
 
-user.post('/lanmu1/test1', (req, res) => {
+user.post('/lanmu1/test123', (req, res) => {
   let articles = []
   for (let i = 0; i < 10; i++) {
     articles.push({

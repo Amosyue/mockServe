@@ -7,7 +7,6 @@
     "nodemon": "^2.0.6"
   },
   "scripts": {
-    "mock": "node mock/index.js",
     "serve": "node serve.js"
   }
 }
